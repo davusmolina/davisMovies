@@ -1,0 +1,19 @@
+{
+  "name": "davismovies",
+  "version": "1.0.0",
+  "description": "\"a website for see movies\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "davismovies"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davusmolina/davisMovies.git"
+  },
+  "author": "DM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davusmolina/davisMovies/issues"
+  },
+  "homepage": "https://github.com/davusmolina/davisMovies#readme"
+}
