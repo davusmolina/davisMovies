@@ -116,6 +116,7 @@ footer {
 
 .movie-img {
 	border-radius: 8px;
+	object-fit: cover;
 }
 
 .categoriesPreview-list,
